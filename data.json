@@ -1,0 +1,10 @@
+{
+  "model": "jamba-instruct",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Your message here"
+    }
+  ],
+  "stream": false
+}
